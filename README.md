@@ -24,6 +24,7 @@
 [gitleaks-playground]: https://gitleaks.io/playground
 
 
+
 [![Github Action Test][badge-build]][build]
 [![Docker Hub][dockerhub-badge]][dockerhub]
 [![Gitleaks Playground][gitleaks-playground-badge]][gitleaks-playground]
